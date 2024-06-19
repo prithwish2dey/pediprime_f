@@ -73,7 +73,7 @@ const teamMembers = [
     name: 'Prithwish Dey',
     role: 'AI/ML Developer',
     githubUrl: 'https://github.com/prithwish2dey',
-    linkedinUrl: 'www.linkedin.com/in/prithwish-dey-9a6267286',
+    linkedinUrl: 'https://www.linkedin.com/in/prithwish-dey-9a6267286',
     image: PrithwishImg, // Replace with actual image URL
   },
   // Add more team members as needed
