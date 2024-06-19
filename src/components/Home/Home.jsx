@@ -68,11 +68,11 @@ const Home = () => {
           <img src={doctorInterface} alt="Doctor Interface Icon" />
           <div className="icon-label">Doctor's Interface</div>
         </div>
-        <div className="icon" onClick={() => handleNavigation('/healthcoins')}>
+        <div className="icon" onClick={() => handleNavigation('/')}>
           <img src={healthCoins} alt="Health Coins Icon" />
           <div className="icon-label">Health Coins</div>
         </div>
-        <div className="icon" onClick={() => handleNavigation('/medicalarticle')}>
+        <div className="icon" onClick={() => handleNavigation('/')}>
           <img src={medicalArticle} alt="Medical Article Icon" />
           <div className="icon-label">Medical Article</div>
         </div>
